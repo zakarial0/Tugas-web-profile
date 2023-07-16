@@ -4,17 +4,18 @@
 	box-sizing: border-box;
 }
 
-header {
-	background-color: #F8E006;
-	color: #fff;
-}
 
+.container-header {
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 0 20px;
+    background-color: #F8E006;
+}
 .container {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 0 20px;
 }
-
 nav {
 	float: right;
   margin-top: -50px; 
